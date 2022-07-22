@@ -1,0 +1,19 @@
+body{
+    background-color: antiquewhite;
+}
+div > p{
+    color:brown;
+}
+div > h1{
+    color: darkblue;
+}
+div > h2 {
+    color:crimson;
+}
+div > a{
+    color: bisque;
+    background-color: black;
+}
+section > p{
+    color:grey
+}
