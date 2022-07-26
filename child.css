@@ -1,19 +1,19 @@
 body{
     background-color: antiquewhite;
 }
-div > p{
+div p{
     color:brown;
 }
-div > h1{
+div h1{
     color: darkblue;
 }
-div > h2 {
+div h2 {
     color:crimson;
 }
-div > a{
+div a{
     color: bisque;
     background-color: black;
 }
-section > p{
+section p{
     color:grey
 }
